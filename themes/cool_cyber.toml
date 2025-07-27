@@ -4,7 +4,7 @@ background = '#0a0a0a'
 foreground = '#18a2e2'
 
 dim_foreground    = '#8abddb'
-bright_foreground = '#7ecefc'
+bright_foreground = '#18a2e2'
 
 # Cursor colors
 [colors.cursor]
@@ -13,7 +13,7 @@ cursor = '#18a2e2'
 
 # Normal colors
 [colors.normal]
-black   = '#1c1c1c'
+black   = '#4e4e4f'
 red     = '#0492f7'
 green   = '#00e9ff'
 yellow  = '#04e9f9'
@@ -24,7 +24,7 @@ white   = '#e0e0e0'
 
 # Bright colors
 [colors.bright]
-black   = '#000000'
+black   = '#4e4e4f'
 red     = '#055bfc'
 green   = '#07fce8'
 yellow  = '#00edff'
